@@ -4,11 +4,9 @@ Passo a passo do desafio de projeto "Análise de Sentimentos com Language Studio
 
 Links importantes:
 
-[Detect faces in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
+[Explore Speech Studio](https://aka.ms/ai900-speech)
 
-[Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
-
-[Analyze images in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html)
+[Analyze text with Language Studio](https://aka.ms/ai900-text-analysis)
 
 ## Passo 1: Criando recurso do Speech service no Azure AI Services e convertendo fala em texto
 
