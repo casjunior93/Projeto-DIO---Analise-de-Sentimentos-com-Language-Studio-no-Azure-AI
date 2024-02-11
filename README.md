@@ -28,7 +28,7 @@ Assim o checkbox informando sobre o uso do recurso ficou disponível.
 
 Entretando, essa é a forma que segui para criar e usar o recurso. A forma utilizada no vídeo para criar o recurso dentro do Estúdio de fala deve funcionar.
 
-Em segui, fiz o upload de uma gravação que eu havia feito minutos antes. A fala foi convertida para texto muito rapidamente.
+Em seguida, fiz o upload de uma gravação de voz que eu havia feito minutos antes. A fala foi convertida para texto muito rapidamente.
 
 ![Img](./img/img4.gif)
 
