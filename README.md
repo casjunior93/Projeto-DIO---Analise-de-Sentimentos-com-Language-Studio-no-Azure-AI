@@ -8,6 +8,8 @@ Links importantes:
 
 [Analyze text with Language Studio](https://aka.ms/ai900-text-analysis)
 
+# Tópico 1: Primeiramente, conhecendo a função de converter fala para texto
+
 ## Passo 1: Criando recurso do Speech service no Azure AI Services e convertendo fala em texto
 
 Primeiro precisei criar um recurso do Speech service dentro do Azure AI Services.
@@ -33,3 +35,5 @@ Em segui, fiz o upload de uma gravação que eu havia feito minutos antes. A fal
 Esse foi o resultado da conversão:
 
 ![Img](./img/img5.png)
+
+# Tópico 2:
