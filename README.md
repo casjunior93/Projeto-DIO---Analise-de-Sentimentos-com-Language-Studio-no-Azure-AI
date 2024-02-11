@@ -36,4 +36,8 @@ Esse foi o resultado da conversão:
 
 ![Img](./img/img5.png)
 
-# Tópico 2:
+## Passo 2: Testando o SDK no Google Colab
+
+Para finalizar, testei o uso do SDK para realizar a conversão de fala para texto usando o Python. [Clique aqui](./Conversão_de_fala_em_texto_em_tempo_real.ipynb) para ver o notebook desse teste.
+
+# Tópico 2: Análise de sentimento
