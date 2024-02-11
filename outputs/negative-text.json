@@ -1,0 +1,250 @@
+{
+  "documents": [
+      {
+          "id": "id__2186",
+          "sentiment": "negative",
+          "confidenceScores": {
+              "positive": 0,
+              "neutral": 0.01,
+              "negative": 0.99
+          },
+          "sentences": [
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0,
+                      "negative": 1
+                  },
+                  "offset": 0,
+                  "length": 76,
+                  "text": "Infelizmente, minha experiência com o Lenovo G40-70 tem sido decepcionante. ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0.01,
+                      "negative": 0.99
+                  },
+                  "offset": 76,
+                  "length": 121,
+                  "text": "A performance do processador não atende às minhas necessidades, frequentemente apresentando lentidão em tarefas simples. ",
+                  "targets": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.13,
+                              "negative": 0.87
+                          },
+                          "offset": 78,
+                          "length": 11,
+                          "text": "performance",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/1/assessments/0"
+                              }
+                          ]
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.13,
+                              "negative": 0.87
+                          },
+                          "offset": 93,
+                          "length": 11,
+                          "text": "processador",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/1/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.13,
+                              "negative": 0.87
+                          },
+                          "offset": 109,
+                          "length": 6,
+                          "text": "atende",
+                          "isNegated": true
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "neutral",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0.78,
+                      "negative": 0.22
+                  },
+                  "offset": 197,
+                  "length": 77,
+                  "text": "A duração da bateria também é abaixo da média, exigindo recargas frequentes. ",
+                  "targets": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.04,
+                              "negative": 0.96
+                          },
+                          "offset": 199,
+                          "length": 7,
+                          "text": "duração",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/2/assessments/0"
+                              },
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/2/assessments/1"
+                              }
+                          ]
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.04,
+                              "negative": 0.96
+                          },
+                          "offset": 210,
+                          "length": 7,
+                          "text": "bateria",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/2/assessments/0"
+                              },
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/2/assessments/1"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.01,
+                              "negative": 0.99
+                          },
+                          "offset": 227,
+                          "length": 6,
+                          "text": "abaixo",
+                          "isNegated": false
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.07,
+                              "negative": 0.93
+                          },
+                          "offset": 237,
+                          "length": 5,
+                          "text": "média",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0,
+                      "negative": 1
+                  },
+                  "offset": 274,
+                  "length": 90,
+                  "text": "A construção do laptop parece frágil, e alguns componentes parecem de qualidade inferior. ",
+                  "targets": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.01,
+                              "negative": 0.99
+                          },
+                          "offset": 276,
+                          "length": 10,
+                          "text": "construção",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/3/assessments/0"
+                              }
+                          ]
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.01,
+                              "negative": 0.99
+                          },
+                          "offset": 290,
+                          "length": 6,
+                          "text": "laptop",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/3/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.01,
+                              "negative": 0.99
+                          },
+                          "offset": 304,
+                          "length": 6,
+                          "text": "frágil",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0.02,
+                      "negative": 0.98
+                  },
+                  "offset": 364,
+                  "length": 65,
+                  "text": "Além disso, o aquecimento excessivo é uma preocupação constante. ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0,
+                      "negative": 1
+                  },
+                  "offset": 429,
+                  "length": 96,
+                  "text": "Infelizmente, não posso recomendar o Lenovo G40-70 com base na minha experiência insatisfatória.",
+                  "targets": [],
+                  "assessments": []
+              }
+          ],
+          "warnings": []
+      }
+  ],
+  "errors": [],
+  "modelVersion": "2022-11-01"
+}

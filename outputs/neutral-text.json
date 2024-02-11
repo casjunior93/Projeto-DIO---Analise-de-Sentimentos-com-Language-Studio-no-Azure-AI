@@ -1,0 +1,368 @@
+{
+  "documents": [
+      {
+          "id": "id__2516",
+          "sentiment": "mixed",
+          "confidenceScores": {
+              "positive": 0.2,
+              "neutral": 0.22,
+              "negative": 0.58
+          },
+          "sentences": [
+              {
+                  "sentiment": "neutral",
+                  "confidenceScores": {
+                      "positive": 0.32,
+                      "neutral": 0.68,
+                      "negative": 0
+                  },
+                  "offset": 0,
+                  "length": 69,
+                  "text": "O Lenovo G40-70 oferece um desempenho razoável para tarefas diárias. ",
+                  "targets": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 27,
+                          "length": 10,
+                          "text": "desempenho",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/0/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 38,
+                          "length": 8,
+                          "text": "razoável",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0.01,
+                      "negative": 0.99
+                  },
+                  "offset": 69,
+                  "length": 57,
+                  "text": "A tela e o teclado são aceitáveis, mas não impressionam. ",
+                  "targets": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 71,
+                          "length": 4,
+                          "text": "tela",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/1/assessments/0"
+                              }
+                          ]
+                      },
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 80,
+                          "length": 7,
+                          "text": "teclado",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/1/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 92,
+                          "length": 10,
+                          "text": "aceitáveis",
+                          "isNegated": false
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.01,
+                              "negative": 0.99
+                          },
+                          "offset": 112,
+                          "length": 12,
+                          "text": "impressionam",
+                          "isNegated": true
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "neutral",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0.97,
+                      "negative": 0.03
+                  },
+                  "offset": 126,
+                  "length": 67,
+                  "text": "A durabilidade da bateria é mediana, exigindo recargas frequentes. ",
+                  "targets": [
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.31,
+                              "negative": 0.69
+                          },
+                          "offset": 128,
+                          "length": 12,
+                          "text": "durabilidade",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/2/assessments/0"
+                              }
+                          ]
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.31,
+                              "negative": 0.69
+                          },
+                          "offset": 144,
+                          "length": 7,
+                          "text": "bateria",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/2/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "mixed",
+                          "confidenceScores": {
+                              "positive": 0.31,
+                              "negative": 0.69
+                          },
+                          "offset": 154,
+                          "length": 7,
+                          "text": "mediana",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "positive",
+                  "confidenceScores": {
+                      "positive": 0.54,
+                      "neutral": 0.45,
+                      "negative": 0.01
+                  },
+                  "offset": 193,
+                  "length": 63,
+                  "text": "O design é simples, e a construção parece sólida o suficiente. ",
+                  "targets": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 195,
+                          "length": 6,
+                          "text": "design",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/3/assessments/0"
+                              }
+                          ]
+                      },
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 0.99,
+                              "negative": 0.01
+                          },
+                          "offset": 217,
+                          "length": 10,
+                          "text": "construção",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/3/assessments/1"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 204,
+                          "length": 7,
+                          "text": "simples",
+                          "isNegated": false
+                      },
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 0.99,
+                              "negative": 0.01
+                          },
+                          "offset": 235,
+                          "length": 6,
+                          "text": "sólida",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0,
+                      "neutral": 0.11,
+                      "negative": 0.89
+                  },
+                  "offset": 256,
+                  "length": 92,
+                  "text": "O processador atende às necessidades básicas, mas pode apresentar lentidão em multitarefas. ",
+                  "targets": [
+                      {
+                          "sentiment": "mixed",
+                          "confidenceScores": {
+                              "positive": 0.5,
+                              "negative": 0.5
+                          },
+                          "offset": 258,
+                          "length": 11,
+                          "text": "processador",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/4/assessments/0"
+                              },
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/4/assessments/1"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 0.99,
+                              "negative": 0.01
+                          },
+                          "offset": 270,
+                          "length": 6,
+                          "text": "atende",
+                          "isNegated": false
+                      },
+                      {
+                          "sentiment": "negative",
+                          "confidenceScores": {
+                              "positive": 0.01,
+                              "negative": 0.99
+                          },
+                          "offset": 322,
+                          "length": 8,
+                          "text": "lentidão",
+                          "isNegated": false
+                      }
+                  ]
+              },
+              {
+                  "sentiment": "neutral",
+                  "confidenceScores": {
+                      "positive": 0.17,
+                      "neutral": 0.83,
+                      "negative": 0
+                  },
+                  "offset": 348,
+                  "length": 63,
+                  "text": "A relação custo-benefício é equilibrada, considerando o preço. ",
+                  "targets": [],
+                  "assessments": []
+              },
+              {
+                  "sentiment": "negative",
+                  "confidenceScores": {
+                      "positive": 0.25,
+                      "neutral": 0.33,
+                      "negative": 0.41
+                  },
+                  "offset": 411,
+                  "length": 159,
+                  "text": "Em resumo, o Lenovo G40-70 é uma opção aceitável para usuários casuais, mas pode deixar a desejar para aqueles que buscam desempenho e recursos mais avançados.",
+                  "targets": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 444,
+                          "length": 5,
+                          "text": "opção",
+                          "relations": [
+                              {
+                                  "relationType": "assessment",
+                                  "ref": "#/documents/0/sentences/6/assessments/0"
+                              }
+                          ]
+                      }
+                  ],
+                  "assessments": [
+                      {
+                          "sentiment": "positive",
+                          "confidenceScores": {
+                              "positive": 1,
+                              "negative": 0
+                          },
+                          "offset": 450,
+                          "length": 9,
+                          "text": "aceitável",
+                          "isNegated": false
+                      }
+                  ]
+              }
+          ],
+          "warnings": []
+      }
+  ],
+  "errors": [],
+  "modelVersion": "2022-11-01"
+}
