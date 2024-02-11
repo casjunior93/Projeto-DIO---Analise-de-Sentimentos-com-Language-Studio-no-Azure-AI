@@ -69,3 +69,9 @@ Resultado no texto original:
 ![Img](./img/img9.png)
 
 Para finalizar, testei o uso do SDK para realizar a análise de sentimentos para texto usando o Python. [Clique aqui](./Análise_de_sentimentos_no_Azure.ipynb) para ver o notebook desse teste.
+
+# Tópico 3: Excluir os recursos criados
+
+Por fim, exclui os recursos que criei para este desafio.
+
+![Img](./img/img10.gif)
